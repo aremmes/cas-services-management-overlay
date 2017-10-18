@@ -11,6 +11,6 @@ overlays/
 build/
 bin/
 *.iml
-
-*.log.gz
 *.log
+*~
+.*.swp
