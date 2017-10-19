@@ -14,3 +14,4 @@ bin/
 *.log
 *~
 .*.swp
+cas-management*.gz
